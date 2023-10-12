@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_editprofile.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\editprofile.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_rakamin.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\rakamin.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_right_arrow.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_rounded_white_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\rounded_white_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\layout_activity_edit_profile.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_fitur1.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\fitur1.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_profile_menu.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\profile_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_card.png.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\card.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "com.application.bankmob.app-merged_res-31:/layout_activity_edit_profile.xml.flat",
+        "source": "com.application.bankmob.app-main-33:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_fitur3.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\fitur3.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_edittext_border.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\edittext_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_fitur2.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\fitur2.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-merged_res-31:\\drawable_rounded_rakamin_background.xml.flat",
+        "source": "C:\\Users\\user\\.gradle\\daemon\\8.0\\com.application.bankmob.app-main-33:\\drawable\\rounded_rakamin_background.xml"
+    }
+]
